@@ -10,3 +10,8 @@ Points abordés :
   - L'absence de while compensée par for
   - La portée des variables et les deux modes de déclaration, := et var
 */
+
+Project initialy created with
+# go mod init PremierProjet
+Executed by :
+# go run main.go
